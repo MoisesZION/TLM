@@ -1,5 +1,5 @@
 async function xml2html() {
-  const response = await fetch("../xml/clientes.xml");
+  const response = await fetch("../xml/facturacion.xml");
   const text = await response.text();
 
   const parser = new DOMParser();
