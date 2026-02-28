@@ -131,6 +131,14 @@ Aqui no va nada, se me rompe si pongo estilos. */
 
 .contenedor-texto {
   max-width: 400px;
+  line-height: 1.6;
+  font-size: 16px;
+  text-align: justify;
+  text-align-last: left;
+}
+
+.contenedor-texto p {
+  margin-bottom: 1rem;
 }
 
 /* Estilos del Index principal real no fake */
