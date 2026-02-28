@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:gml="http://www.opengis.net/gml"
     xmlns:bta="http://www.ejemplo.org/bta">
-
+    
     <gml:boundedBy>
         <gml:Box>
             <gml:coord>
